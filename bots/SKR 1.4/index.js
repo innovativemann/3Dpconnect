@@ -15,6 +15,10 @@ const info = {
       vid: 0x1d50,
       pid: 0x6029,
     },
+    {
+      vid: 0x2a03,
+      pid: 0x0042,
+    },
   ],
   baudrate: 115200,
   checksumSupport: true,
