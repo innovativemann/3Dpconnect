@@ -82,7 +82,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.2.2",
-    "electron": "^1.7.9",
+    "electron": "^13.6.6",
     "electron-builder": "^19.36.0",
     "electron-installer-dmg": "^0.2.1",
     "electron-packager": "^9.1.0",
